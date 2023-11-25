@@ -11,6 +11,12 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+import LibraryFiles.BaseClass;
+import LibraryFiles.UtilityClass;
+import Module1_Login.SwagLabHomePage;
+import Module1_Login.SwagLabLoginPage;
+import Module1_Login.SwagLabMenuPage;
+
 public class PropertyFileSwagLabLoginTest2  extends BaseClass
 {
 	
